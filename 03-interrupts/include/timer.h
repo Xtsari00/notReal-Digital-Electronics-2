@@ -68,10 +68,7 @@
  */
 // WRITE YOUR CODE HERE
 
-
-
-
-
+#define TI0_STOP TCCR0B &= ~((1<<CS02))
 
 
 
