@@ -1,5 +1,3 @@
-# notReal-Digital-Electronics-2
-
 # GPS-based environmental sensor data logger
 
 ### Členové týmu
