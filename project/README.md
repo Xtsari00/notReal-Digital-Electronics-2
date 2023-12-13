@@ -88,10 +88,6 @@ Create a comprehensive data logging system using an AVR microcontroller. The sys
 - Power supply: 3.3V to 5V
 - Dimensions: 36 x 24 mm
 
-
-
-
-
-
-
 <a name="modules"></a>
+
+## Testing and results
