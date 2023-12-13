@@ -44,6 +44,7 @@ Create a comprehensive data logging system using an AVR microcontroller. The sys
 - GPS data
 - Humidity and temperature data
 2. The acquired data is displayed in real time on the OLED display.
+3. Export GPS, humidity and temperature data to txt or exel file
 
 
 <a name="hardware"></a>
