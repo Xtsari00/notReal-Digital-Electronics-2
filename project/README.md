@@ -48,10 +48,10 @@ Create a comprehensive data logging system using an AVR microcontroller. The sys
 
 <a name="hardware"></a>
 ## Description HW
-## Schematic wiring diagram
+### Schematic wiring diagram
 ![Max_DE2](https://github.com/MaksimMigulia97/digital_electronics-2/assets/99403646/05c29027-3b62-4b4a-b1e0-ba9bfbfa2d46)
 
-## [1] Arduino UNO, ATmega328P:
+### [1] Arduino UNO, ATmega328P:
 - CPU frequency up to 20MHz
 - FLASH 32KB
 - EEPROM 1KB
@@ -61,7 +61,7 @@ Create a comprehensive data logging system using an AVR microcontroller. The sys
 - 6 PWM channels
 - Power supply 1.8 - 5.5V
 
-## [2] Modul DHT11:
+### [2] Modul DHT11:
 - Form of output: digital output
 - Humidity measurement range: 20%~90% RH
 - Humidity measurement error: ± 5% RH
@@ -70,7 +70,7 @@ Create a comprehensive data logging system using an AVR microcontroller. The sys
 - Operating voltage: 5V
 - Size: 28 x 12 x 8 mm
 
-## [3] OLED Display:
+### [3] OLED Display:
 - Bus: IIC I2C
 - Diagonal: 0.96" 
 - Resolution: 128 x 64px
@@ -81,7 +81,7 @@ Create a comprehensive data logging system using an AVR microcontroller. The sys
 - Dimensions: 27 x 27 x 4.1 mm 
 - Driver: SSD1306
 
-## [4] Modul GPS:
+### [4] Modul GPS:
 - Type: NEO-6M GYNEO6MV2[1]: 
 - Interface: RS232 TTL
 - Default speed: 9600bps
