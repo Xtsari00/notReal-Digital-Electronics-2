@@ -95,4 +95,3 @@ Create a comprehensive data logging system using an AVR microcontroller. The sys
 
 
 <a name="modules"></a>
-## Popis a simulace VHDL modulů
