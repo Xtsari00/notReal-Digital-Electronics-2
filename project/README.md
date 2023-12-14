@@ -105,6 +105,13 @@ Create a comprehensive data logging system using an AVR microcontroller. The sys
 
 
 ## Testing and results
+![image](https://github.com/Xtsari00/notReal-Digital-Electronics-2/assets/99403641/02b0ff3f-9a03-41ff-93a2-cb791b5dc97a)
+
+![image](https://github.com/Xtsari00/notReal-Digital-Electronics-2/assets/99403641/94a315ad-299b-42d3-b931-5311ffa84938)
+
+![photo1702498282](https://github.com/Xtsari00/notReal-Digital-Electronics-2/assets/99403641/68fed1d6-c474-4499-b25e-26a2e23109e2)
+
+
 
 ## References 
 https://youtu.be/xz-EPdDKu1A
