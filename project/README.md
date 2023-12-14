@@ -96,6 +96,11 @@ Create a comprehensive data logging system using an AVR microcontroller. The sys
 
 <a name="modules"></a>
 
+## Flowcharts
+![image](https://github.com/Xtsari00/notReal-Digital-Electronics-2/assets/99403641/7bd48cb2-cc2b-4851-829f-f80f9d2067c6)
+
+## Information from data analyzer
+
 ## Testing and results
 
 ## References 
