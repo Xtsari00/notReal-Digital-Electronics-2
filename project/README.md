@@ -34,9 +34,8 @@ PROJECT        // PlatfomIO project
 
 ### Table of contents
 
-* [Projekt](#objectives)
-* [Popis HW](#hardware)
-* [Video](#video)
+* [Project](#objectives)
+* [HW](#hardware)
 * [Zdroje](#references)
 
 <a name="objectives"></a>
