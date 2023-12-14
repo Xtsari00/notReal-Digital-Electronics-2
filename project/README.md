@@ -30,7 +30,7 @@ PROJECT        // PlatfomIO project
 ├── src             // Source file(s)
 │   └── main.c
 └── platformio.ini  // Project Configuration File
-
+ ```
 
 ### Table of contents
 
