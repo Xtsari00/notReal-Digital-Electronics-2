@@ -10,21 +10,26 @@
 ## GitHub repository structure
 
    ```c
-   PROJECT        // PlatfomIO project
-   ├── include
-   │  └── timer.h       
-   ├── lib             // Libraries
-   │  └── gpio
-   │       └── gpio.c
-   │       └── gpio.h
-   │   └── lcd
-   │        └── lcd.definitions.h
-   │        └── lcd.h
-   │        └── lcd.c
-   ├── src             // Source file(s)
-   │   └── main.c
-   └── platformio.ini  // Project Configuration File
-   ```
+PROJECT        // PlatfomIO project
+├── include
+│  └── timer.h      
+├── lib             // Libraries
+│  └── gpio
+│       └── gpio.c
+│       └── gpio.h
+│   └── oled
+│        └── font.h
+│        └── oled.c
+│        └── oled.h
+│   └── twi
+│        └── twi.c
+│        └── twi.h
+│   └── uart
+│        └── uart.c
+│        └── uart.h
+├── src             // Source file(s)
+│   └── main.c
+└── platformio.ini  // Project Configuration File
 
 
 ### Table of contents
@@ -92,3 +97,7 @@ Create a comprehensive data logging system using an AVR microcontroller. The sys
 <a name="modules"></a>
 
 ## Testing and results
+
+## References 
+https://youtu.be/xz-EPdDKu1A
+https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf
