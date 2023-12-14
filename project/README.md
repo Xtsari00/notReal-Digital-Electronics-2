@@ -2,9 +2,9 @@
 
 ### Team members
 
-* Bohdan Tsariuchenko (responsible for .... documentation)
-* Migulia Maksim (responsible for .., elaboration of schemes, documentation)
-* Yaroslav (responsible for ...)
+* Bohdan Tsariuchenko (responsible for documentation, structurization project)
+* Migulia Maksim (responsible for presentation, creation schematics)
+* Yaroslav (responsible for debugging GPS tracker )
 
 
 ## GitHub repository structure
