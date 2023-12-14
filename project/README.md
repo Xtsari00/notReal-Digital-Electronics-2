@@ -36,7 +36,7 @@ PROJECT        // PlatfomIO project
 
 * [Project](#objectives)
 * [HW](#hardware)
-* [Zdroje](#references)
+* [References](#references)
 
 <a name="objectives"></a>
 ## Project
